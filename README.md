@@ -1,7 +1,8 @@
-# mevn-user-reg-module
+# mevn-file-upload-aws-s3
 
 > A simple app to upload file on amazon S3 . Front-end:- Vue.js home and upload components. Built with vue-router, axios. And Back-end:- Node.js server to handle upload processing witt multer-s3, aws…
 
+> To check add some configuration. Go to folder server/routes/uploadS3/upload.js and edit this upload.js file. Add your access key, secret key, also bucket name that's it. 
 ## Build Setup
 
 ``` bash

@@ -24,7 +24,7 @@
                     <div class="navbar-item">
                         <div class="field is-grouped">
                         <p class="control">
-                           <a href="" target="_blank" class="bd-gt-button button">
+                           <a href="https://github.com/mdashikar/mevn-file-upload-aws-s3/blob/master/README.md" target="_blank" class="bd-gt-button button">
                                 <span class="icon">
                                     <i class="fab fa-github"></i>
                                 </span>
@@ -35,7 +35,7 @@
                             
                         </p>
                         <p class="control">
-                            <a class="button is-primary" href="">
+                            <a class="button is-primary" href="https://github.com/mdashikar/mevn-file-upload-aws-s3/archive/master.zip">
                             <span class="icon">
                                 <i class="fas fa-download"></i>
                             </span>
